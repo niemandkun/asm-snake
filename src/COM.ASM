@@ -1,0 +1,12 @@
+com_exit        equ 0
+com_left        equ 1
+com_right       equ 2
+com_up          equ 3
+com_down        equ 4
+com_tick        equ 5
+com_faster      equ 6
+com_slower      equ 7
+com_start       equ 8
+com_sound       equ 9
+com_gameover    equ 10
+com_help        equ 11
